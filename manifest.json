@@ -1,0 +1,9 @@
+{
+  "name": "Chitin Conflict - Attempt 2",
+  "short_name": "Chitin Conflict",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0c09",
+  "theme_color": "#16140f",
+  "icons": [{"src":"icon.png","sizes":"512x512","type":"image/png"}]
+}
